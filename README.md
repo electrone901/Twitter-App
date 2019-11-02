@@ -36,6 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ### App Walkthough GIF
+<img src="https://github.com/electrone901/Twitter-App/blob/master/w.gif" title='Video Walkthrough' alt='Video Walkthrough' /><br>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
